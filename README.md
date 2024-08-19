@@ -7,6 +7,17 @@ ________________________________________________________________________________
 
 ### Important_Note :https://docs.google.com/document/d/1x1B851YFrNM9Zv5Jk0YuBMFcE0nIvq_F/edit?usp=sharing&ouid=101497979566065047806&rtpof=true&sd=true
 <HR>
+<br>
+
+## Analysis part In Excel 
+
+- **Note**: The Excel file is quite large, approximately 90MB. Therefore, I've provided a link to both the Excel sheet and a Google Sheet. Please download them and review the content.
+  
+**1) Excel :** https://onedrive.live.com/view.aspx?resid=42DDA65A1592569B%21141418&authkey=!AK2aqE91vl57oJs
+  
+**2) Google_Sheet :** https://drive.google.com/file/d/1jiD5BH37p9i423J93nGrpyMo0HfQxJlb/view
+<br>
+<hr>
 
 # Description :
 
