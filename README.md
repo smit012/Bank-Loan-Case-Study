@@ -7,7 +7,6 @@ ________________________________________________________________________________
 
 ### Important_Note :https://docs.google.com/document/d/1x1B851YFrNM9Zv5Jk0YuBMFcE0nIvq_F/edit?usp=sharing&ouid=101497979566065047806&rtpof=true&sd=true
 <HR>
-<br>
 
 ## Analysis part In Excel 
 
