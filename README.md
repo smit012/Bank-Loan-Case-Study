@@ -20,6 +20,10 @@ ________________________________________________________________________________
 <br>
 <hr>
 
+<p align="center">
+<img src="https://github.com/smit012/Bank-Loan-Case-Study/blob/main/Loan_Case_Study.png" alt="Demo Image" width="500"></p>
+<hr>
+
 # Description :
 
 Description:
